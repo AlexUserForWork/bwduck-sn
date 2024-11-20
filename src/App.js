@@ -10,7 +10,7 @@ function App() {
             <source src={duckV} type='video/mp4' />
             Video doesn't work because you sniffed too much glue.
          </video>
-         <p className='main-text'>COMING SOON</p>
+         <p className='main-text'>Quack Wif Boi</p>
       </div>
    );
 }
